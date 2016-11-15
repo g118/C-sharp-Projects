@@ -1,0 +1,31 @@
+﻿<Window x:Class="Random_Number.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Random_Number"
+        mc:Ignorable="d"
+        Title="Randon_number" Height="350" Width="525">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height=".5*"/>
+            <RowDefinition Height=".5*"/>
+        </Grid.RowDefinitions>
+        <Label Name="lblIntro" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.ColumnSpan="3" Grid.Row="0" Grid.Column="0" Content="I'm thinking of a number between 1 and 100" FontSize="25" />
+        <Label Name="lblInstruct" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="1" Grid.Column="0" Content="Enter your guess:" FontSize="20" />
+        <TextBox Name="tbGuess" Margin="20" FontSize="25" Grid.Column="1" Grid.Row="1" MaxLength="3" TextAlignment="Center" Text="{Binding Guess, Mode=TwoWay}"/>
+        <Button Name="btnCheck" Margin="20" FontSize="20"  Content="Check" Grid.Column="2" Grid.Row="1" Click="btnCheck_Click" />
+        <Label Name="lblLast" FontSize="20" Content="Last guess:" HorizontalAlignment="Right" Grid.Column="0" Grid.Row="2"/>
+        <Label Name="lblAll" FontSize="20" Content="All guesses:" HorizontalAlignment="Right" Grid.Column="0" Grid.Row="3"/>
+        <TextBox Name="tbLast" Margin="5" FontSize="20" Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="2" TextAlignment="Left" Text="{Binding lastGuess, Mode=TwoWay}"/>
+        <TextBox Name="tbAll" Margin="5" FontSize="20" Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="3" TextAlignment="Left" Text="{Binding allGuesses, Mode=TwoWay}"/>
+    </Grid>
+</Window>

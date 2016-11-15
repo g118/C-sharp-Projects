@@ -1,0 +1,56 @@
+E:\c#\Week 5\Random Number\Random Number\bin\Debug\Random Number.exe.config
+E:\c#\Week 5\Random Number\Random Number\bin\Debug\Random Number.exe
+E:\c#\Week 5\Random Number\Random Number\bin\Debug\Random Number.pdb
+E:\c#\Week 5\Random Number\Random Number\obj\Debug\Random Number.csprojResolveAssemblyReference.cache
+E:\c#\Week 5\Random Number\Random Number\obj\Debug\MainWindow.g.cs
+E:\c#\Week 5\Random Number\Random Number\obj\Debug\App.g.cs
+E:\c#\Week 5\Random Number\Random Number\obj\Debug\Random Number_MarkupCompile.cache
+E:\c#\Week 5\Random Number\Random Number\obj\Debug\Random Number_MarkupCompile.lref
+E:\c#\Week 5\Random Number\Random Number\obj\Debug\MainWindow.baml
+E:\c#\Week 5\Random Number\Random Number\obj\Debug\Random Number.g.resources
+E:\c#\Week 5\Random Number\Random Number\obj\Debug\Random_Number.Properties.Resources.resources
+E:\c#\Week 5\Random Number\Random Number\obj\Debug\Random Number.csproj.GenerateResource.Cache
+E:\c#\Week 5\Random Number\Random Number\obj\Debug\Random Number.exe
+E:\c#\Week 5\Random Number\Random Number\obj\Debug\Random Number.pdb
+F:\c#\Week 5\Random Number\Random Number\bin\Debug\Random Number.exe.config
+F:\c#\Week 5\Random Number\Random Number\obj\Debug\Random Number.exe
+F:\c#\Week 5\Random Number\Random Number\obj\Debug\Random Number.pdb
+F:\c#\Week 5\Random Number\Random Number\bin\Debug\Random Number.exe
+F:\c#\Week 5\Random Number\Random Number\bin\Debug\Random Number.pdb
+F:\c#\Week 5\Random Number\Random Number\obj\Debug\Random Number.csprojResolveAssemblyReference.cache
+F:\c#\Week 5\Random Number\Random Number\obj\Debug\MainWindow.g.cs
+F:\c#\Week 5\Random Number\Random Number\obj\Debug\App.g.cs
+F:\c#\Week 5\Random Number\Random Number\obj\Debug\Random Number_MarkupCompile.cache
+F:\c#\Week 5\Random Number\Random Number\obj\Debug\Random Number_MarkupCompile.lref
+F:\c#\Week 5\Random Number\Random Number\obj\Debug\MainWindow.baml
+F:\c#\Week 5\Random Number\Random Number\obj\Debug\Random Number.g.resources
+F:\c#\Week 5\Random Number\Random Number\obj\Debug\Random_Number.Properties.Resources.resources
+F:\c#\Week 5\Random Number\Random Number\obj\Debug\Random Number.csproj.GenerateResource.Cache
+C:\Users\Gurpreet\Downloads\Random Number\Random Number\bin\Debug\Random Number.exe.config
+C:\Users\Gurpreet\Downloads\Random Number\Random Number\obj\Debug\Random Number.exe
+C:\Users\Gurpreet\Downloads\Random Number\Random Number\obj\Debug\Random Number.pdb
+C:\Users\Gurpreet\Downloads\Random Number\Random Number\bin\Debug\Random Number.exe
+C:\Users\Gurpreet\Downloads\Random Number\Random Number\bin\Debug\Random Number.pdb
+C:\Users\Gurpreet\Downloads\Random Number\Random Number\obj\Debug\Random Number.csprojResolveAssemblyReference.cache
+C:\Users\Gurpreet\Downloads\Random Number\Random Number\obj\Debug\MainWindow.g.cs
+C:\Users\Gurpreet\Downloads\Random Number\Random Number\obj\Debug\App.g.cs
+C:\Users\Gurpreet\Downloads\Random Number\Random Number\obj\Debug\Random Number_MarkupCompile.cache
+C:\Users\Gurpreet\Downloads\Random Number\Random Number\obj\Debug\Random Number_MarkupCompile.lref
+C:\Users\Gurpreet\Downloads\Random Number\Random Number\obj\Debug\MainWindow.baml
+C:\Users\Gurpreet\Downloads\Random Number\Random Number\obj\Debug\Random Number.g.resources
+C:\Users\Gurpreet\Downloads\Random Number\Random Number\obj\Debug\Random_Number.Properties.Resources.resources
+C:\Users\Gurpreet\Downloads\Random Number\Random Number\obj\Debug\Random Number.csproj.GenerateResource.Cache
+C:\Users\Gurpreet\OneDrive\C Sharp\Random Number\Random Number\bin\Debug\Random Number.exe.config
+C:\Users\Gurpreet\OneDrive\C Sharp\Random Number\Random Number\obj\Debug\Random Number.exe
+C:\Users\Gurpreet\OneDrive\C Sharp\Random Number\Random Number\obj\Debug\Random Number.pdb
+C:\Users\Gurpreet\OneDrive\C Sharp\Random Number\Random Number\bin\Debug\Random Number.exe
+C:\Users\Gurpreet\OneDrive\C Sharp\Random Number\Random Number\bin\Debug\Random Number.pdb
+C:\Users\Gurpreet\OneDrive\C Sharp\Random Number\Random Number\obj\Debug\Random Number.csprojResolveAssemblyReference.cache
+C:\Users\Gurpreet\OneDrive\C Sharp\Random Number\Random Number\obj\Debug\MainWindow.g.cs
+C:\Users\Gurpreet\OneDrive\C Sharp\Random Number\Random Number\obj\Debug\App.g.cs
+C:\Users\Gurpreet\OneDrive\C Sharp\Random Number\Random Number\obj\Debug\Random Number_MarkupCompile.cache
+C:\Users\Gurpreet\OneDrive\C Sharp\Random Number\Random Number\obj\Debug\Random Number_MarkupCompile.lref
+C:\Users\Gurpreet\OneDrive\C Sharp\Random Number\Random Number\obj\Debug\MainWindow.baml
+C:\Users\Gurpreet\OneDrive\C Sharp\Random Number\Random Number\obj\Debug\Random Number.g.resources
+C:\Users\Gurpreet\OneDrive\C Sharp\Random Number\Random Number\obj\Debug\Random_Number.Properties.Resources.resources
+C:\Users\Gurpreet\OneDrive\C Sharp\Random Number\Random Number\obj\Debug\Random Number.csproj.GenerateResource.Cache
