@@ -1,0 +1,14 @@
+C:\Users\Gurpreet\OneDrive\BMI Index\BMI Index\bin\Debug\BMI Index.exe.config
+C:\Users\Gurpreet\OneDrive\BMI Index\BMI Index\bin\Debug\BMI Index.exe
+C:\Users\Gurpreet\OneDrive\BMI Index\BMI Index\bin\Debug\BMI Index.pdb
+C:\Users\Gurpreet\OneDrive\BMI Index\BMI Index\obj\Debug\BMI Index.csprojResolveAssemblyReference.cache
+C:\Users\Gurpreet\OneDrive\BMI Index\BMI Index\obj\Debug\MainWindow.g.cs
+C:\Users\Gurpreet\OneDrive\BMI Index\BMI Index\obj\Debug\App.g.cs
+C:\Users\Gurpreet\OneDrive\BMI Index\BMI Index\obj\Debug\BMI Index_MarkupCompile.cache
+C:\Users\Gurpreet\OneDrive\BMI Index\BMI Index\obj\Debug\BMI Index_MarkupCompile.lref
+C:\Users\Gurpreet\OneDrive\BMI Index\BMI Index\obj\Debug\MainWindow.baml
+C:\Users\Gurpreet\OneDrive\BMI Index\BMI Index\obj\Debug\BMI Index.g.resources
+C:\Users\Gurpreet\OneDrive\BMI Index\BMI Index\obj\Debug\BMI_Index.Properties.Resources.resources
+C:\Users\Gurpreet\OneDrive\BMI Index\BMI Index\obj\Debug\BMI Index.csproj.GenerateResource.Cache
+C:\Users\Gurpreet\OneDrive\BMI Index\BMI Index\obj\Debug\BMI Index.exe
+C:\Users\Gurpreet\OneDrive\BMI Index\BMI Index\obj\Debug\BMI Index.pdb
