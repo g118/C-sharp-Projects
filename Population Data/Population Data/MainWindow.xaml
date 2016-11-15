@@ -1,0 +1,28 @@
+﻿<Window x:Class="Population_Data.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Population_Data"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="575">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height=".5*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2.75*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" FontSize="24" FontWeight="Bold" Content="US Population Data from 1950 to 1990"/>
+        <Label Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Content="Average annual change in population (thousands):" FontSize="20" VerticalAlignment="Center"/>
+        <Label Grid.Row="2" Grid.Column="0" Content="Year with greatest increase in population:" FontSize="20" VerticalAlignment="Center"/>
+        <Label Grid.Row="3" Grid.Column="0" Content="Year with least increase in population:" FontSize="20" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding Average}" FontSize="22" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBlock Grid.Row="2" Grid.Column="1" Text="{Binding GreatestYear}" FontSize="22" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBlock Grid.Row="3" Grid.Column="1" Text="{Binding LeastYear}" FontSize="22" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Grid>
+</Window>
